@@ -1,6 +1,6 @@
 # Cubari JSON Schema
 
-This repository hosts a JSON schema for [Cubari](https://cubari.moe) repositories. If this sounds useful to you, you're welcome.
+This repository hosts a JSON schema for [Cubari](https://cubari.moe) repositories. If that sounds useful to you, you're welcome.
 
 The schema URL is `https://cubari.celsiusnarhwal.dev`.
 
